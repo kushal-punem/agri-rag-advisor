@@ -1,0 +1,6 @@
+ragas
+datasets
+requests
+langchain-groq
+python-dotenv
+commentjson
